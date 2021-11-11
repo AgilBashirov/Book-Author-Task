@@ -1,0 +1,14 @@
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.exe
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.deps.json
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.runtimeconfig.json
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.dll
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\bin\Debug\netcoreapp3.1\BookandAouthor.pdb
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.AssemblyInfo.cs
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.dll
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.pdb
+C:\Users\agilab\source\repos\BookandAouthor\BookandAouthor\obj\Debug\netcoreapp3.1\BookandAouthor.genruntimeconfig.cache
